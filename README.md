@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @appuzeee
-- 👀 I’m interested in web page devoloping and coding
-- 🌱 I’m currently learning Master of Computer Application
+- 👀 I’m interested in web page developing and coding
+- 🌱 I’m currently learning Master of Computer Application @cusat university
+
 - 💞️ I’m looking to collaborate on programming
 - 📫 I'm from kerala (india) and my number is +919562537155
 
